@@ -22,7 +22,7 @@ The slightly complex neural network is a two-layer feedforward network with a hi
 
 ## Advanced Convolutional Neural Network (CNN)
 
-The advanced CNN consists of two convolutional layers followed by two fully connected layers. This model achieved an accuracy of 98.24% on the test dataset.
+The advanced CNN consists of two convolutional layers followed by two fully connected layers. This model achieved an accuracy of 98.24% on the test dataset..
 
 **Model architecture:**
 
@@ -58,4 +58,4 @@ If you are new to neural networks and PyTorch, we recommend checking out the fol
 
 - [PyTorch official documentation](https://pytorch.org/docs/stable/index.html)
 - [Deep Learning with PyTorch: A 60-minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html)
-- [Convolutional Neural Networks (CNNs) Explained](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+- [Convolutional Neural Networks (CNNs) Explained](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53).
